@@ -4,7 +4,7 @@
 <br>
 
 <p align="center" style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/01/que-es-pseudocodigo-1024x512.png" 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffree-backgrounds-photos%2Fprogramaci%25C3%25B3n&psig=AOvVaw04LWGPDWcsfgA7ZWqNLG1x&ust=1724465903672000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi8yp-GiogDFQAAAAAdAAAAABAE" 
        alt="Importancia de la Programación" 
        style="width: 100%; height: 100%; object-fit: cover;"/>
 </p>
