@@ -3,7 +3,15 @@
 
 <br>
 
+<p align="center">
+  <img src="https://www.aicad.es/asset/img/2/importancia-de-la-programacion-en-una-empresa.jpg" alt="Importancia de la Programación" style="width: 100%; height: auto;"/>
+</p>
+
+
 <br>
+
+
+
 
 <h3 align="left">Sobre mí:</h3>
 <hr>
