@@ -9,13 +9,7 @@
        style="width: 100%; height: 100%; object-fit: cover;"/>
 </p>
 
-
-
-
 <br>
-
-
-
 
 <h3 align="left">Sobre mí:</h3>
 <hr>
