@@ -6,8 +6,9 @@
 <p align="center">
   <img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/01/que-es-pseudocodigo-1024x512.png" 
        alt="Importancia de la Programación" 
-       style="width: 100%; height: 300px; object-fit: cover;"/>
+       style="width: 100%; max-height: 300px; object-fit: contain;"/>
 </p>
+
 
 
 <br>
