@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Martin Lopez</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas y apasionado por el desarrollo en Java 🌟.</h3>
+<h1 align="center">Hola, soy Martin Lopez 👋</h1>
+<h3 align="center">Estudiante de Licenciatura en Sistemas de Información y apasionado por el desarrollo en Java 🌟.</h3>
 
 <br>
 
@@ -9,9 +9,12 @@
 
 <br>
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web, Spring Boot, y mejorando mis habilidades en Java y SQL.
+<h3 align="left">Sobre mí:</h3>
+<hr>
 
-- 📫 Cómo contactarme: **martinlopez@example.com** (Reemplazar con tu correo)
+- 💻 Actualmente estoy aprendiendo Desarrollo Web, Spring Boot, y mejorando mis habilidades en Java y SQL.
+
+- 📫 Cómo contactarme: **martinlopez@gmai.com**
 
 - ⚡ Dato curioso: Disfruto programar mientras escucho buena música 🎵.
 
@@ -49,7 +52,15 @@
 
 <h3>Datos Estadísticos:</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=martinlopez05&show_icons=true&locale=es
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=martinlopez05&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="martinlopez05" 
+    bg_color=#808080/></p>
 
-      
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinlopez05&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="martinlopez05" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinlopez05&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="martinlopez05" /></p>
