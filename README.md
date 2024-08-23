@@ -17,7 +17,7 @@
   
 - 🔍 Actualmente estoy trabajando en proyectos personales para desarrollar mis habilidades en programación y construir una sólida base práctica. Estos proyectos me permiten aplicar y consolidar lo que he aprendido, así como enfrentar nuevos desafíos para mejorar continuamente, los puedes ver en mis repositorios 😁✅!
   
-- 📫 Cómo contactarme: **martinlopez45630@gmail.com**
+- 📫 Cómo contactarme: **martinlopez45630@gmail.com** ✉️
 
 - ⚡ Dato curioso: Disfruto programar mientras escucho buena música 🎵.
 
