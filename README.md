@@ -4,7 +4,7 @@
 <br>
 
 <p align="center" style="width: 100%,height:300px; overflow: hidden;">
-  <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/conoce-5-lenguajes-de-programacion-basicos.jpg" 
+  <img src="https://cmsudi.udelistmo.edu/sites/default/files/aprender-programacion.png" 
        alt="Importancia de la Programación" 
        style="width: 100%; height: 100%; object-fit: cover;"/>
 </p>
