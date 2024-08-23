@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Martin Lopez 👋</h1>
+<h1 align="center">Hola, soy Martin López 👋🚀</h1>
 <h3 align="center">Estudiante de Licenciatura en Sistemas de Información y apasionado por el desarrollo en Java 💻🚀.</h3>
 
 <br>
