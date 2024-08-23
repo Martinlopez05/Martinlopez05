@@ -35,22 +35,26 @@
 
 <br>
 
+
+Para separar un poco las imágenes de los lenguajes y herramientas en tu README, puedes añadir un espacio entre ellas usando márgenes o padding en el estilo de las imágenes. Aquí tienes cómo podrías modificar tu sección de "Lenguajes y Herramientas" para lograr esto:
+
+markdown
+Copiar código
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 15px;" /> 
     </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40" style="margin-right: 15px;" /> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 15px;" /> 
     </a> 
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> 
     </a>
 </p>
-
 <br>
 
 <h3>Datos Estadísticos:</h3>
