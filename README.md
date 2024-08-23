@@ -3,8 +3,6 @@
 
 <br>
 
-
-
 <br>
 
 <h3 align="left">Sobre mí:</h3>
