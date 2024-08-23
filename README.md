@@ -1,11 +1,9 @@
 <h1 align="center">Hola, soy Martin Lopez 👋</h1>
-<h3 align="center">Estudiante de Licenciatura en Sistemas de Información y apasionado por el desarrollo en Java 🌟.</h3>
+<h3 align="center">Estudiante de Licenciatura en Sistemas de Información y apasionado por el desarrollo en Java 💻🚀.</h3>
 
 <br>
 
-<p align="right"> <h3>Visitas al perfil:</h3> <img src="https://komarev.com/ghpvc/?username=martinlopez05&label=Profile%20views&color=0e75b6&style=flat"
-    alt="martinlopez05" /> 
-  </p>
+
 
 <br>
 
