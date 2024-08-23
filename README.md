@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center" style="width: 100%;  overflow: hidden;">
+<p align="center" style="width: 100%,height:300px; overflow: hidden;">
   <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/conoce-5-lenguajes-de-programacion-basicos.jpg" 
        alt="Importancia de la Programación" 
        style="width: 100%; height: 100%; object-fit: cover;"/>
