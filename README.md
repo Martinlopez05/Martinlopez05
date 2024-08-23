@@ -3,12 +3,11 @@
 
 <br>
 
-<p align="center" style="width: 100%,height:300px; overflow: hidden;">
+<p align="center" style="width: 50%; max-width: 600px; height: auto;">
   <img src="https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg" 
        alt="Importancia de la Programación" 
-       style="width: 100%; height: 100%; object-fit: cover;"/>
+       style="width: 100%; height: auto; object-fit: contain;"/>
 </p>
-
 <br>
 
 <h3 align="left">Sobre mí:</h3>
