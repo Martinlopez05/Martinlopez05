@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://www.aicad.es/asset/img/2/importancia-de-la-programacion-en-una-empresa.jpg" alt="Importancia de la Programación" style="width: 100%; height: auto;"/>
+  <img src="https://impulso06.com/wp-content/uploads/2023/04/Por-que-la-programacion-es-una-habilidad-esencial-para-el-negocio-digital.png" alt="Importancia de la Programación" style="width: 100%; height: auto;"/>
 </p>
 
 
