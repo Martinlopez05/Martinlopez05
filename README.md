@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://www.piensasolutions.com/blog/file/uploads/2017/10/bannerprogramacion.jpg" 
        alt="Importancia de la Programación" 
-       style="width: 100%; height: 200px; object-fit: cover;"/>
+       style="width: 100%; height: 300px; object-fit: cover;"/>
 </p>
 
 
