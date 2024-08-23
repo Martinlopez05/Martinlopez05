@@ -11,7 +11,7 @@
 <br>
 
 <h1 align="left">Sobre mí:</h1>
-<hr>
+
 
 - 💻 Actualmente me encuentro estudiando la carrera de Licenciatura en Sistemas de Información , formándome también con cursos externos a esta con la finalidad de profundizar y desarrollar mis habilidades como programador haciendo proyecto personales, especialemente con el lenguaje de programacion Java y SQL . 
 
