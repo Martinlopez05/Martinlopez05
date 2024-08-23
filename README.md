@@ -3,11 +3,12 @@
 
 <br>
 
-<p align="center">
+<p align="center" style="width: 100%; height: 300px; overflow: hidden;">
   <img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/01/que-es-pseudocodigo-1024x512.png" 
        alt="Importancia de la Programación" 
-       style="width: 100%; max-height: 300px; object-fit: contain;"/>
+       style="width: 100%; height: 100%; object-fit: cover;"/>
 </p>
+
 
 
 
