@@ -13,8 +13,10 @@
 <h1 align="left">Sobre mí:</h1>
 
 
-- 💻 Actualmente me encuentro estudiando la carrera de Licenciatura en Sistemas de Información , formándome también con cursos externos a esta con la finalidad de profundizar y desarrollar mis habilidades como programador haciendo proyecto personales, especialemente con el lenguaje de programacion Java y SQL . 
-
+- 💻 Actualmente me encuentro estudiando la carrera de Licenciatura en Sistemas de Información , formándome también con cursos externos a esta con la finalidad de profundizar y desarrollar mis habilidades como programador , especialemente con el lenguaje de programacion Java y SQL .
+  
+- 🔍 Actualmente estoy trabajando en proyectos personales para desarrollar mis habilidades en programación y construir una sólida base práctica. Estos proyectos me permiten aplicar y consolidar lo que he aprendido, así como enfrentar nuevos desafíos para mejorar continuamente
+  
 - 📫 Cómo contactarme: **martinlopez@gmai.com**
 
 - ⚡ Dato curioso: Disfruto programar mientras escucho buena música 🎵.
