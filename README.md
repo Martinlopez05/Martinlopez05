@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://impulso06.com/wp-content/uploads/2023/04/Por-que-la-programacion-es-una-habilidad-esencial-para-el-negocio-digital.png" 
+  <img src="https://www.piensasolutions.com/blog/file/uploads/2017/10/bannerprogramacion.jpg" 
        alt="Importancia de la Programación" 
        style="width: 100%; height: 200px; object-fit: cover;"/>
 </p>
