@@ -57,12 +57,6 @@ Copiar código
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" />
     </a>
-    <a href="https://firebirdsql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg" alt="firebird" width="40" height="40" />
-    </a>
-    <a href="https://firebirdsql.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebirdsql.org/file/about/ds-firebird.svg" alt="firebird" width="40" height="40" />
-    </a>
 
 
 
