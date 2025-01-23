@@ -4,7 +4,7 @@
 <br>
 
 <p align="center" style="width: 50%; max-width: 400px; height: auto;">
-  <img src="https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg" 
+  <img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/01/que-es-pseudocodigo-1024x512.png" 
        alt="Importancia de la Programación" 
        style="width: 100%; height: auto; object-fit: contain;"/>
 </p>
